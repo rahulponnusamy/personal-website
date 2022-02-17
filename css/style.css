@@ -505,6 +505,16 @@ header .follow a:hover{
     border-radius: 50%;
 }
 
+.contact .icons-container .icons a{
+    height:5rem;
+    width:5rem;
+    line-height: 5rem;
+    font-size: 2rem;
+    background: var(--main-color);
+    color:#fff;
+    border-radius: 50%;
+}
+
 .contact .icons-container .icons h3{
     color:#111;
     font-size: 2rem;
